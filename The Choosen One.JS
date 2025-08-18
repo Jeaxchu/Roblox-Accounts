@@ -10,5 +10,5 @@
 // ==/UserScript==
 
 (function() {
-    window.location.href = "https://www.roblox.com/users/2502227893"
+    window.location.href = "your user link"
 })();
