@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Roblox Alt Creator (Dictionary Auto Run, Retry Username, Auto Submit)
 // @namespace    http://tampermonkey.net/
-// @version      2.4
+// @version      2.5
 // @description  Automatically autofills the Roblox signup form with realistic usernames, retries if taken, and auto-clicks Sign Up.
 // @author       find
+// @match       https://www.roblox.com/*
 // @match        https://www.roblox.com/CreateAccount
 // @match        https://www.roblox.com/CreateAccount?returnUrl=https%3A%2F%2Fwww.roblox.com%2FCreateAccount%2A
 // @run-at       document-idle
