@@ -10,3 +10,4 @@ Instruction :
 4) Save
 
 Don’t copy all the code into one Tampermonkey script. Instead, copy each code from GitHub (here) and paste it into a separate script in Tampermonkey.
+Also don't copy the README.md (I don't even know why do I have to say this *sigh*)
